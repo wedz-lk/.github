@@ -1,8 +1,4 @@
 <p align="center">
-  <img width="250" src="https://wedz.lk/images/wedz-secondary-gold.png">
-</p>
-
-<p align="center">
   <img src="https://pbs.twimg.com/profile_banners/1774796342269030400/1712135777/1500x500">
 </p>
 
